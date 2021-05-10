@@ -2,6 +2,8 @@
 
 Face recognition is a computer vision task of identifying and verifying a person based on a photograph of their face.
 following steps are followed:
+
+
 1)The 5 Celebrity Faces Dataset is a small dataset that contains photographs of celebrities.
 
 It includes photos of: Ben Affleck, Elton John, Jerry Seinfeld, Madonna, and Mindy Kaling.
