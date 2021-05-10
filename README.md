@@ -10,6 +10,5 @@ following steps are followed:
 
    The dataset was prepared and made available by Dan Becker and provided for free download on Kaggle.
    link : https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset
-
 2) Faces is extracted from dataset images to train model. Multi-Task Cascaded Convolutional Neural Network, or MTCNN, is used to perform face extraction 
 3) For face classification CNN model is used. Extracted faces are given to model
