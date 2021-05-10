@@ -1,4 +1,4 @@
-# Face-Recognition using CNNF
+# Face-Recognition using CNN
 
 Face recognition is a computer vision task of identifying and verifying a person based on a photograph of their face.
 following steps are followed:
